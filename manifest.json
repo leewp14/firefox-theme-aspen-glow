@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "version": "1.0",
-  "name": "Humble Gruvbox",
+  "name": "Humble Gruvbox 2",
   "theme": {
     "colors": {
       "accentcolor": "#282828",
