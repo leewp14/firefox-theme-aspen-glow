@@ -5,7 +5,7 @@
   "description": "Humble Gruvbox theme for Firefox 89 and newer. ",
   "browser_specific_settings": {
     "gecko": {
-      "strict_min_version": "89"
+      "strict_min_version": "89.0"
     }
   },
   "theme": {
